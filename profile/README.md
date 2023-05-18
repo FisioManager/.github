@@ -7,3 +7,4 @@ ed altri professionisti nello stesso campo.
 
 - Filippo Greco
 - Lorenzo D'Angelo
+- Daniel Costadone
